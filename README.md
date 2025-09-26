@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me:
+- My name's **James**
+- Age: **18**
+- Living in: **Germany**
+- Pronouns: **He / Him**
+- I am interested in **making cool stuff**
