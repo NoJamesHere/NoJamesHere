@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 ### Here are my biggest github repos:
-[Python](https://github.com/NoJamesHere/PythonProjects)
-[Web-Dev](https://github.com/NoJamesHere/Javascriptt)
+- [**Python**](https://github.com/NoJamesHere/PythonProjects)
+- [**Web-Dev**](https://github.com/NoJamesHere/Javascriptt)
 
 ## My Github Pages
-[Website](https://nojameshere.github.io/Javascriptt/)
+[**Website**](https://nojameshere.github.io/Javascriptt/)
 
-![type shi](https://giphy.com/gifs/3y0oCOkdKKRi0)
+![type shi](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUxb2tvc2Jud3V6Z3I1YTVleTY3amw5emk3cTE4ajdtdjVudXZhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3y0oCOkdKKRi0/giphy.gif)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=nojameshere&show_icons=true&theme=radical)
 <!--
