@@ -7,6 +7,7 @@
 - 💬 Pronouns: **He / Him**
 - 💻 I am interested in **making cool stuff**
 - 🛠 Currently Learning: **A bit of Bash Scripting & Arduino C++**
+
 💡 Alwaays tinkering, aaalways learning :D
 
 
