@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Here are my biggest github repos:
+[Python](https://github.com/NoJamesHere/PythonProjects)
+[Web-Dev](https://github.com/NoJamesHere/Javascriptt)
+
+## My Github Pages
+[Website](https://nojameshere.github.io/Javascriptt/)
+
+![type shi](https://giphy.com/gifs/3y0oCOkdKKRi0)
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=nojameshere&show_icons=true&theme=radical)
 <!--
 **NoJamesHere/NoJamesHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
