@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Internet 
 
 ### About me:
 - 🌱 My name's **James**
