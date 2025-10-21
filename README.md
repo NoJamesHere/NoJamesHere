@@ -6,7 +6,7 @@
 - 🔭 Living in: **Germany**
 - 💬 Pronouns: **He / Him**
 - 💻 I am interested in **making cool stuff**
-- 🛠 Currently Learning: **A bit of Bash Scripting & Arduino C++**
+- 🛠 Currently Learning: **A bit of Bash Scripting & Arduino C++ (and a bit of networking)**
 
 💡 Alwaays tinkering, aaalways learning :D
 
