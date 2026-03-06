@@ -1,4 +1,4 @@
-## Hello Internet 
+# Hello Internet 
 
 ### About me:
 - 🌱 My name's **James**
@@ -6,7 +6,7 @@
 - 🔭 Living in: **Germany**
 - 💬 Pronouns: **He / Him**
 - 💻 I am interested in **making cool stuff**
-- 🛠 Currently Learning: **A bit of Bash Scripting & Arduino C++ (and a bit of networking)**
+- 🛠 Currently Learning: **C**
 
 💡 Alwaays tinkering, aaalways learning :D
 
